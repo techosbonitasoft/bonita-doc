@@ -1,6 +1,6 @@
 * xref:custom-applications-index.adoc[Living Applications]
  ** xref:bonita-ui-builder.adoc[Applications with Bonita UI Builder]
-  *** xref:initiation-manual.adoc[Initiation Manual]
+  *** Initiation Manual
    **** xref:download-and-launch.adoc[Download and launch]
    **** xref:ui-builder-docker-installation.adoc[UI Builder Docker]
    **** xref:create-an-interface.adoc[Create an interface]
